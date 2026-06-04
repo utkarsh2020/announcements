@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated_at": "2026-06-04T18:00:00.000Z",
+  "updated_at": "2026-06-04T20:00:00.000Z",
   "master": {
-    "id": "master-notice",
+    "id": "syora-1-0-release",
     "kind": "announcement",
-    "title": "Your headline here",
-    "body": "Your evergreen or critical message. This block stays at the top until you remove or replace master.",
-    "published_at": "2026-06-04T18:00:00.000Z",
-    "url": "https://example.com",
-    "url_label": "Learn more"
+    "title": "Syora 1.0 is available",
+    "body": "Thank you for using Syora. Version 1.0 brings unified chat, Compare mode, cloud and local models (OpenRouter, Ollama, MLX), and a built-in Usage Guide. We would love your feedback as we improve the app.",
+    "published_at": "2026-06-04T20:00:00.000Z",
+    "url": "mailto:utkarsh2020@gmail.com?subject=Syora%201.0%20feedback",
+    "url_label": "Email feedback"
   },
   "items": []
 }
