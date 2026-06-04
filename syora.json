@@ -3,6 +3,7 @@
   "updated_at": "2026-06-04T20:00:00.000Z",
   "master": {
     "id": "syora-1-0-release",
+    "section_label": "Welcome",
     "kind": "announcement",
     "title": "Syora 1.0 is available",
     "body": "Thank you for using Syora. Version 1.0 brings unified chat, Compare mode, cloud and local models (OpenRouter, Ollama, MLX), and a built-in Usage Guide. We would love your feedback as we improve the app.",
